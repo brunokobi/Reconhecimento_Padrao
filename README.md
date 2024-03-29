@@ -1,7 +1,7 @@
 # 🎯 Reconhecimento de Padrões
 
 ## Contato do Professor
-Prof. Dr. Francisco de Assis Boldt  
+Prof. Francisco de Assis Boldt  
 📧 Email: [fboldt@gmail.com](mailto:fboldt@gmail.com)  
 🌐 Github: [https://fboldt.github.io/](https://fboldt.github.io/)
 
